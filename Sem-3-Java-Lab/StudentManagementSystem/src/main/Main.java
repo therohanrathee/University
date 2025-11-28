@@ -3,11 +3,9 @@ package StudentManagementSystem.src.main;
 import service.StudentManager;
 import java.util.Scanner;
 
-import StudentManagementSystem.src.model.Student;
-
 public class Main {
     public static void main(String[] args) {
-        Student manager = new Student();
+        StudentManager manager = new StudentManager();
         Scanner scanner = new Scanner(System.in);
 
         // Load existing data immediately on startup (Lab 4/5)
