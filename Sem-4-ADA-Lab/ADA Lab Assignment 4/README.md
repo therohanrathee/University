@@ -69,12 +69,7 @@ The assignment focuses on optimization techniques and string matching algorithms
 ## ▶️ How to Run
 
 1. Install Python (if not installed)
-2. Clone this repository
-
-   ```
-   git clone <your-repo-link>
-   ```
-3. Run the Python files:
+2. Run the Python files:
 
    ```
    python filename.py

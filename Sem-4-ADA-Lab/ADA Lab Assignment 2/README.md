@@ -126,7 +126,4 @@ This assignment helped in understanding:
 
 ---
 
-## 🔗 Repository
-
-(Add your GitHub link here)
-# Ada.lab.assignment2
+⭐ *Prepared as part of academic coursework*

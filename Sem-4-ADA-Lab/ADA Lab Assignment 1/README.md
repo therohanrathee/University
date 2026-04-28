@@ -28,3 +28,7 @@ Clone the repository and run any file:
 ```bash
 python filename.py
 ```
+
+---
+
+⭐ *Prepared as part of academic coursework*

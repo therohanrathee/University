@@ -71,4 +71,4 @@ This project demonstrates how different algorithmic techniques can be applied to
 
 ---
 
-⭐ Feel free to use, modify, and learn!
+⭐ *Prepared as part of academic coursework*
