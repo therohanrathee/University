@@ -126,4 +126,4 @@ This assignment helped in understanding:
 
 ---
 
-⭐ *Prepared as part of academic coursework*
+⭐ *Prepared as Part of Academic Coursework*

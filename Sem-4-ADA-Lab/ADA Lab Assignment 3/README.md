@@ -60,4 +60,4 @@ This project is created for educational purposes to understand core graph algori
 
 ---
 
-⭐ *Prepared as part of academic coursework*
+⭐ *Prepared as Part of Academic Coursework*

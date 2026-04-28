@@ -31,4 +31,4 @@ python filename.py
 
 ---
 
-⭐ *Prepared as part of academic coursework*
+⭐ *Prepared as Part of Academic Coursework*

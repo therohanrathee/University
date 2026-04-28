@@ -98,4 +98,4 @@ This assignment demonstrates:
 
 ---
 
-⭐ *Prepared as part of academic coursework*
+⭐ *Prepared as Part of Academic Coursework*
